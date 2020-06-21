@@ -1,1 +1,4 @@
+An Angular Material Design Dashboard that highlights how it can be deployed to github pages
+
+https://asudbury.github.io/angular-material-dashboard/
 
