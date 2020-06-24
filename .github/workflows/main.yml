@@ -35,7 +35,6 @@ jobs:
       - name: Download build
         uses: actions/download-artifact@v1
         with:
-        name : Deploy Artifacts
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
