@@ -5,3 +5,4 @@ An Angular Material Design Dashboard that highlights how it can be deployed to g
 https://asudbury.github.io/angular-material-dashboard/
 
 ![Alt text](/src/assets/img/scorchio-dashboard.png?raw=true)
+ 
